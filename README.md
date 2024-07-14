@@ -19,7 +19,7 @@ It features a user-friendly web interface built with Flask, allowing users to in
 
 ## Website
 
-[Diabetes-Detection](http://127.0.0.1:5000/)
+[Diabetes-Detection](http://127.0.0.1:5000)
 
 ## Project Structure and Description 
 
